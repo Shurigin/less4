@@ -17,8 +17,7 @@ public class WorkerTest {
         persArray[4] = new Person("Ivanova Matilda Aristarkhovna", "actress", "shining-star@mail.ru", "+79057777777", 30500000, 27);
 
 
-        //worker1.age = 31;
-        //worker2.age = 33;
+
         /*
          ** Задание 3
          */
@@ -40,7 +39,5 @@ public class WorkerTest {
         }
 
 
-        //System.out.println("Возраст первого сотрудника: " + worker1.age);
-        // System.out.println("Возраст второго сотрудника: " + worker2.age);
     }
 }
